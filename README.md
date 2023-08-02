@@ -1,11 +1,19 @@
 ## Client_Research_and_Problem_Identification_Virtual_Experience_Accenture
 
+![New specs - preview tiles (7)](https://github.com/DataAsh21/Client_Research_and_Problem_Identification_Virtual_Experience_Accenture/assets/133566238/65cfe74c-ab3d-497c-b8ce-6352381ee809)
+
+The Accenture  Virtual Experience was a captivating journey that immersed participants in the world of client research and problem identification. Through a series of engaging tasks, we delved into the heart of complex challenges, honing our skills to unlock meaningful solutions. From requirements gathering to stakeholder interviews and process mapping, every step offered a unique learning opportunity. Join me as I unveil the outcomes and personal growth achieved through this exhilarating virtual experience.🌟
+
+
 # 🤖 Industrobots Sales Process Transformation 🚀
 
 ## Overview
 
 This repository contains the documentation and deliverables for the Industrobots Sales Process Transformation project. The project aimed to streamline the sales process for Industrobots' iDROID consumer product, shifting from an RFP-driven sales cycle to a web-driven automated consumer sales cycle.
 
+## Introduction
+
+Industrobots, a leading player in the consumer robotics industry, embarked on an ambitious journey to revolutionize its sales process for the iDROID consumer product. The project aimed to shift from a traditional Request for Proposal (RFP)-driven sales cycle to a cutting-edge web-driven automated consumer sales process. This article delves into the remarkable transformation undertaken by Industrobots, embracing digitalization and automation to achieve enhanced customer engagement and business growth.🌱
 ## Tasks Completed ✔️
 
 ### Task 1: Requirements Gathering Project Plan 📝
