@@ -32,9 +32,9 @@ The third task focused on creating "As-Is" and "To-Be" process maps for the sale
 
 The repository is organized as follows:
 
-- `Task1_Requirements_Gathering_Project_Plan`: Contains the Requirements Gathering Project Plan documentation.
-- `Task2_Stakeholder_Interview_Guides`: Includes the interview guides for the VP of Marketing and VP of Strategic Partnerships.
-- `Task3_Process_Maps`: Contains the "As-Is" and "To-Be" sales process maps.
+- [`Task1_Requirements_Gathering_Project_Plan`](https://github.com/DataAsh21/Client_Research_and_Problem_Identification_Virtual_Experience_Accenture/blob/dafd3a683db8110880004fb2ff8425b35953d553/Requirements%20Gathering%20Project%20Plan%20%20Task%201.pptx): Contains the Requirements Gathering Project Plan documentation.
+- [`Task2_Stakeholder_Interview_Guides`](https://github.com/DataAsh21/Client_Research_and_Problem_Identification_Virtual_Experience_Accenture/blob/dafd3a683db8110880004fb2ff8425b35953d553/Requirements%20Gathering%20Project%20Interview%20Guide%20Task2.pptx): Includes the interview guides for the VP of Marketing and VP of Strategic Partnerships.
+- [`Task3_Process_Maps`](https://github.com/DataAsh21/Client_Research_and_Problem_Identification_Virtual_Experience_Accenture/blob/dafd3a683db8110880004fb2ff8425b35953d553/Requirements%20Gathering%20Process%20Mapping%20Task%203.pdf): Contains the "As-Is" and "To-Be" sales process maps.
 
 ## How to Use 🛠️
 
